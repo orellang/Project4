@@ -259,7 +259,7 @@ def tsp(filename):
         
                 
 
-sys.argv = ["tsp.py", "tsp_example_1.txt"]
+#sys.argv = ["tsp.py", "tsp_example_1.txt"]
 def main(argv):
         filename = sys.argv[1]
         tsp(filename)
